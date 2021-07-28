@@ -9,4 +9,4 @@ Publication Software: Implemented Via C# Windows Forms &amp; SQL {Server}
 ![image](https://user-images.githubusercontent.com/67589592/127315105-fb026b5f-0e20-472c-b2a3-f4a921d722fa.png)
 ![image](https://user-images.githubusercontent.com/67589592/127315214-510433c6-d567-491d-8bf2-36dbf966fd48.png)
 ![image](https://user-images.githubusercontent.com/67589592/127315264-d52f45b3-0854-4d1b-96bb-ec96154a5e33.png)
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/67589592/127316373-148cb5f4-71fe-4024-a38f-aa144807e1ad.png)
